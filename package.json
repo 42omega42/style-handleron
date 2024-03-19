@@ -1,0 +1,30 @@
+{
+  "name": "style-handleron",
+  "version": "1.0.0",
+  "description": "Handles dynamic styling in web applications, supporting CSS-in-JS approaches.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/42omega42/style-handleron"
+  },
+  "author": "42omega42",
+  "license": "MIT",
+  "dependencies": {
+    "style-handleron": "1.0.0",
+    "image-web3-kit": "1.0.0",
+    "body-parser": "1.0.0",
+    "webpack": "1.0.0",
+    "commander": "1.0.0",
+    "react-redux": "1.0.0",
+    "truffle": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "axios": "1.0.0",
+    "web3-react": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "validator": "1.0.0",
+    "moment": "1.0.0"
+  }
+}
